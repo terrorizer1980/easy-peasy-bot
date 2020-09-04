@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This piece of sample code has been archived. For more up to date samples, check out some of the other repositories on https://github.com/slackapi
+
 # easy-peasy-bot
 
 ## The story of a (Slack)bot
